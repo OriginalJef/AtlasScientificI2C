@@ -1,4 +1,4 @@
-POOLBOT
+AtlasScientificI2C
 ==================================
 
 	AtlasScientificI2C/
