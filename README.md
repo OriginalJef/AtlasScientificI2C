@@ -3,8 +3,9 @@ AtlasScientificI2C
 
 	AtlasScientificI2C/
 	├── src/
-	│	├── i2c.py
-	└── README.md
+	│	├── app.py
+	├── README.md
+	└── LICENSE
 
 
 ## Info
